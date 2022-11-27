@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">A passionate software test engineer from Saint-Petersburg</h3>
+<h3 align="center">A passionate software test engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/PeterShurkantsev](https://github.com/PeterShurkantsev)
 
